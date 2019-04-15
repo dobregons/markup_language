@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="metadata.xsd">
+	<site>
+		<geometry>Punto</geometry>
+		<title>Palacio de los deportes</title>
+		<description>Es un coliseo cubierto con modernas instalaciones que puede albergar importantes torneos deportivos profesionales como de aficionados. Igualmente es ideal para eventos culturales, empresariales, teatrales y musicales.</description>
+		<date>
+			<year>2015</year>
+			<month>06</month>
+			<day>25</day>
+		</date>		
+		<location>
+			<postalCode>111221</postalCode>
+        	<city>Bogota</city>
+		</location>
+		<origin>
+			<name>David</name>
+			<surname>Obregon</surname>
+		</origin>
+	</site>
+</metadata>

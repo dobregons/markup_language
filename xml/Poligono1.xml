@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="metadata.xsd">
+	<site>
+		<geometry>Poligono</geometry>
+		<title>Parque Simon Bolivar</title>
+		<description>Representa el parque más grande de Bogotá, el cual cuenta con una gran cantidad de zonas verdes y lo convierte en uno de los sitios turisticos más importantes de Bogotá.</description>
+		<date>
+			<year>2015</year>
+			<month>06</month>
+			<day>25</day>
+		</date>		
+		<location>
+			<postalCode>111221</postalCode>
+        	<city>Bogota</city>
+		</location>
+		<origin>
+			<name>David</name>
+			<surname>Obregon</surname>
+		</origin>
+	</site>
+</metadata>

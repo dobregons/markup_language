@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>kmllfinaaalll.kmz</name>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff7f0000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>a67faa00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff7f0000</color>
+			<width>2.1</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff7f0000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>a67faa00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff7f0000</color>
+			<width>2.1</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>f7000000</color>
+			<width>1.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>967f0000</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>f7000000</color>
+			<width>1.7</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>9600aa55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff7f0000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>a60000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff7f0000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>a60000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>f7000000</color>
+			<width>1.7</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>9600aa55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff000055</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin00">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>f7000000</color>
+			<width>1.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>967f0000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff000055</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>ProyectoFinalKML</name>
+		<open>1</open>
+		<Placemark>
+			<name>Parque Simon Bolivar</name>
+			<description>Este es el parque más grande de Bogotá.</description>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-74.09403529863288,4.652838045223417,0 -74.09346615611688,4.652660989798437,0 -74.09163475879048,4.653695955599361,0 -74.08901343162495,4.658976885296923,0 -74.08947156486551,4.659964002086491,0 -74.09059850794438,4.661870646288061,0 -74.09335457758155,4.665305476754225,0 -74.09445522222745,4.664522242963001,0 -74.10008035988066,4.657320808564717,0 -74.09403529863288,4.652838045223417,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Salitre Magico</name>
+			<description>Es el principal parque de diversiones en Bogotá.</description>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-74.09106365729993,4.667379409483067,0 -74.09000871505397,4.669240039635866,0 -74.09057853866692,4.66974628030669,0 -74.09199424037388,4.667920203408172,0 -74.09239420888986,4.666460979456404,0 -74.09236665996859,4.665432089147982,0 -74.09212061443019,4.664885292699227,0 -74.09171425829601,4.664337622626188,0 -74.09076882357327,4.664321255061796,0 -74.09106365729993,4.667379409483067,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Ruta Universidad Libre - Salitre Mágico</name>
+			<description>Avenida Rojas - Calle 63 - Rotonda . Avenida 68 y Salitre Magico</description>
+			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-74.10356258616085,4.667220974380883,0 -74.10404853414806,4.667810106367774,0 -74.10096554375738,4.670598762412602,0 -74.09718817168663,4.668543017574763,0 -74.09401145543293,4.666494379908474,0 -74.09387156775703,4.666284485768809,0 -74.09372847365478,4.665958411580212,0 -74.09361717022772,4.665844849228282,0 -74.09336738244303,4.665721222415671,0 -74.0930402764552,4.66580607759547,0 -74.09286526634935,4.665984091218283,0 -74.09284736081062,4.666313410820984,0 -74.09273959754324,4.666575403070525,0 -74.09215134855531,4.667666881208286,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Palacio de los deportes - Coliseo el Salitre</name>
+			<description>Biblioteca Virgilio Barco - Calle 63 - Avenida Carrera 68</description>
+			<styleUrl>#msn_ylw-pushpin00</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-74.08450914554739,4.655115150277275,0 -74.08520518146761,4.654583248478851,0 -74.08692020906457,4.656993857944001,0 -74.0900049318056,4.661433759691098,0 -74.09180622426244,4.663868572624867,0 -74.09284347556344,4.665279502462133,0 -74.0937670587288,4.665451737959432,0 -74.09430457388737,4.66520552792729,0 -74.09523112971114,4.666285671999418,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Coliseo el Salitre</name>
+			<description>El Coliseo El Salitre es el escenario más importante de la Unidad Deportiva El Salitre.</description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-74.09505287808759,4.664723203180826,0 -74.09418630313131,4.665805029629202,0 -74.09411991598414,4.665972849745599,0 -74.09414565776433,4.666100034295946,0 -74.09499419334131,4.666746847917463,0 -74.09523377087777,4.66645105694508,0 -74.0955703934946,4.66670032916523,0 -74.0956128880875,4.666647407736075,0 -74.09574088447322,4.666527337594517,0 -74.09581416183269,4.666381313603446,0 -74.09593898061689,4.666204795697633,0 -74.09601725501805,4.666071709460472,0 -74.09601298296477,4.665876612434599,0 -74.09596710671308,4.665693671521895,0 -74.09593393036309,4.665418262339024,0 -74.09588141099854,4.665337253660386,0 -74.09574921620981,4.66524197719429,0 -74.09557729483267,4.665095275725986,0 -74.09541785460341,4.664990423076749,0 -74.09548033600844,4.664865924188107,0 -74.09539737849136,4.664721837949656,0 -74.09517832255725,4.664637736660827,0 -74.09505287808759,4.664723203180826,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Jardin Botanico</name>
+			<description>El Jardín Botánico de Bogotá &quot;José Celestino Mutis&quot; es el jardín botánico más grande de Colombia.</description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-74.10330202198237,4.668313126875137,0 -74.10225776988735,4.667573364194861,0 -74.10129932345392,4.666849747839517,0 -74.10015144221843,4.666107011128278,0 -74.0991679464446,4.665410893637398,0 -74.0967436613328,4.667961430800097,0 -74.10104128230107,4.670354861118777,0 -74.10330202198237,4.668313126875137,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

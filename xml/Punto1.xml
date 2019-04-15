@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="metadata.xsd">
+	<site>
+		<geometry>Punto</geometry>
+		<title>Montaña Rusa Salitre Mágico</title>
+		<description>La montaña rusa de salitre mágico es una de las principales atracciones de este establecimiento, muy visitada por turistas de otras partes del país.</description>
+		<date>
+			<year>2015</year>
+			<month>06</month>
+			<day>25</day>
+		</date>		
+		<location>
+			<postalCode>111211</postalCode>
+        	<city>Bogota</city>
+		</location>
+		<origin>
+			<name>David</name>
+			<surname>Obregon</surname>
+		</origin>
+	</site>
+</metadata>

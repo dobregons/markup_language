@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="metadata.xsd">
+	<site>
+		<geometry>Poligono</geometry>
+		<title>Salitre Mágico</title>
+		<description>Este poligono describe el principal parque de atracciones en Bogotá. Queda ubicado en la localidad de barrios unidos y tiene atracciones para todo tipo de publico.</description>
+		<date>
+			<year>2015</year>
+			<month>06</month>
+			<day>25</day>
+		</date>		
+		<location>
+			<postalCode>111221</postalCode>
+        	<city>Bogota</city>
+		</location>
+		<origin>
+			<name>David</name>
+			<surname>Obregon</surname>
+		</origin>
+	</site>
+</metadata>

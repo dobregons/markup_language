@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="metadata.xsd">
+	<site>
+		<geometry>Poligono</geometry>
+		<title>Coliseo el Salitre</title>
+		<description>Este poligono describe el escenario más importante de la Unidad Deportiva El Salitre. En este escenario se efectúan principalmente compromisos deportivos ligados con los deportes bajo techo, como el baloncesto, voleibol, bádminton, tenis de mesa, karate, Taekwondoesgrima y Futsal entre otros.</description>
+		<date>
+			<year>2015</year>
+			<month>06</month>
+			<day>25</day>
+		</date>		
+		<location>
+			<postalCode>111221</postalCode>
+        	<city>Bogota</city>
+		</location>
+		<origin>
+			<name>David</name>
+			<surname>Obregon</surname>
+		</origin>
+	</site>
+</metadata>

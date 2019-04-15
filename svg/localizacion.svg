@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg>
+
+<svg height="768" width="1366" style="background: #98D9E0" xmlns="http://www.w3.org/2000/svg">
+  <polygon points="247,243,308,187,496,312,427,383" style="fill:#0E2BFF;stroke:#2C4447;stroke-width:2;fill-opacity:0.8;stroke-opacity:1.0"/><!--u libre -->
+
+
+  <polygon points="313,182,404,98,411,96,419,97,594,199,579,202,572,205,564,213,550,223,509,280,503,291,497,308" style="fill:#2C4447;stroke:#B25100;stroke-width:2" />
+  <polygon points="598,202,660,248,678,257,687,261,698,265,703,272,701,287,673,323,514,524,499,512,496,504,482,430,473,420,430,386" style="fill:#2C4447;stroke:#B25100;stroke-width:2" />
+  <polygon points="730,304,690,336,681,339,582,465,438,652,544,729,841,728,864,676,896,600,906,578,906,569,903,561,906,545,902,530,750,308,743,304" style="fill:#00A03B;stroke:#FF2319;stroke-width:2;fill-opacity:0.7;stroke-opacity:0.9" />
+  <polygon points="201,84,380,85,284,170" style="fill:#2C4447;stroke:#B25100;stroke-width:2" />
+  <polygon points="183,84,157,84,95,141,200,249,277,182" style="fill:#2C4447;stroke:#B25100;stroke-width:2" />
+  <polygon points="511,529,478,575,466,575,328,465,389,391,407,387,426,393,454,415,474,426,478,449,487,488,492,510,499,520" style="fill:#2C4447;stroke:#B25100;stroke-width:2" />
+  <polygon points="136,344,243,247,397,371,294,493" style="fill:#2C4447;stroke:#B25100;stroke-width:2" />
+  <polygon points="194,526,253,459,130,350,78,397,74,404,96,435,129,475" style="fill:#2C4447;stroke:#B25100;stroke-width:2" />
+  <polygon points="926,530,763,303,758,288,758,269,782,207,805,176,836,135,848,124,877,86,1177,84,1057,268,1030,310" style="fill:#2C4447;stroke:#B25100;stroke-width:1" />
+  <polygon points="718,263,715,272,716,281,727,290,734,290,742,286,746,280,747,269,743,265,736,261,729,258" style="fill:#2C4447;stroke:#B25100;stroke-width:1" />
+  <polygon points="869,719,931,585,1029,716" style="fill:#2C4447;stroke:#B25100;stroke-width:1" />
+  <polygon points="855,85,740,236,723,246,698,250,591,180,426,85" style="fill:#2C4447;stroke:#B25100;stroke-width:1" />
+  <polygon points="60,388,198,255,92,145,0,240,0,291" style="fill:#2C4447;stroke:#B25100;stroke-width:1" />
+  <polygon points="123,83,1,84,0,212" style="fill:#2C4447;stroke:#B25100;stroke-width:1" />
+  <polygon points="234,727,44,426,0,464,0,730" style="fill:#2C4447;stroke:#B25100;stroke-width:1" />
+  <polygon points="294,496,254,461,195,529,124,477,280,727,354,728,468,585,324,473" style="fill:#2C4447;stroke:#B25100;stroke-width:1" />
+  <polygon points="526,729,429,662,379,728" style="fill:#2C4447;stroke:#B25100;stroke-width:1" />
+  <polygon points="1062,286,1025,371,950,539,954,580,1048,714,1315,603,1345,591,1228,509,1171,452" style="fill:#2C4447;stroke:#B25100;stroke-width:1" />
+  <polygon points="1208,86,1364,85,1361,585,1232,499,1188,462,1117,353,1066,280" style="fill:#2C4447;stroke:#B25100;stroke-width:1" />
+  <polygon points="920,544,914,551,913,562,915,569,921,573,928,575,935,572,940,568,943,561,944,555,943,548,938,543,931,540,925,541" style="fill:#2C4447;stroke:#B25100;stroke-width:1" />
+  <polygon points="1068,717,1364,595,1364,715" style="fill:#2C4447;stroke:#B25100;stroke-width:1" />
+  <polygon points="772,299,835,298,836,250,852,250,850,209,834,209,879,152,897,150,921,122,871,93,837,133,784,204,776,226" style="fill:#B51900;stroke:#B25100;stroke-width:1" />
+
+  <rect height="148" y="264" width="47" x="855" style="fill:#00A03B;stroke:#FF2319;stroke-width:2;fill-opacity:0.7;stroke-opacity:0.9"/>
+  
+  <text x="341" y="306" style="fill: #CFDADB; stroke: none">Universidad Libre</text>
+  <text x="230" y="250" fill="#000347" transform="rotate(-45 230,250)">Carrera 70 (Avenida Rojas)</text>
+  <text y="212" x="392" style="fill: #CFDADB; stroke: none; font-size: 20px;">Jardín Botanico</text>
+  <text x="180" y="366" style="fill: #CFDADB; stroke: none">Colegio Simon Bolivar</text>
+  <text x="119" y="460" style="fill: #CFDADB; stroke: none">Centro Don Bosco</text>
+  <text y="561" x="569" style="fill: #CFDADB; stroke: none; font-size: 31px;">Parque Simón Bolivar</text>
+  <text x="231" y="130" fill="#000347" transform="rotate(49 231,130)">Calle 53</text>
+  <text  y="462" x="357" style="fill: #CFDADB; stroke: none">Compensar</text>
+  <text  x="590" y="430" fill="#000347" transform="rotate(-50, 590,400)">Carrera 68</text>
+  <text x="530" y="202" fill="#000347" transform="rotate(35 599,200)">Avenida Calle 63</text>
+
+  <text x="130" y="550" style="fill: #000347; stroke: none; font-size: 31px;" transform="rotate(58 130,550)">Calle 26</text>
+  <text x="800" y="250" fill="#CFDADB" transform="rotate(-52, 800,250)">Salitre Mágico</text>
+  <text x="825" y="341" fill="#CFDADB">Parque El Salitre</text>
+  <text y="181" x="602" style="fill: #CFDADB; stroke: none">Instituto Técnico Industrial</text>
+  <text x="878" y="669" style="fill: #000347; stroke: none; font-size: 13px;">Biblioteca Virgilio Barco</text>
+  <text x="1020" y="607" style="fill: #CFDADB; stroke: none; font-size: 25px;">IDRD</text>
+  <text  x="537" y="306" style="fill: #CFDADB; stroke: none">Coliseo Cubierto</text>
+  <text x="537" y="323" style="fill: #CFDADB; stroke: none">El Salitre</text>
+  <text x="980" y="403" fill="#000347" transform="rotate(-62, 980,370)">Carrera 60</text>
+
+
+</svg>

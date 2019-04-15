@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="metadata.xsd">
+	<site>
+		<geometry>Linea</geometry>
+		<title>Palacio de los Deportes - Coliseo el Salitre</title>
+		<description>Esta linea describe la ruta entre el palacio de los deportes y el coliseo el salitre. Usualmente son los dos sitios principales para practicar deporte y organizar eventos deportivos en la ciudad de Bogotá. Ambos sitios son muy visitados por turistas.</description>
+		<date>
+			<year>2015</year>
+			<month>06</month>
+			<day>25</day>
+		</date>		
+		<location>
+			<postalCode>111221</postalCode>
+        	<city>Bogota</city>
+		</location>
+		<origin>
+			<name>David</name>
+			<surname>Obregon</surname>
+		</origin>
+	</site>
+</metadata>

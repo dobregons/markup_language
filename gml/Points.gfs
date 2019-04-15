@@ -1,0 +1,32 @@
+<GMLFeatureClassList>
+  <GMLFeatureClass>
+    <Name>diversionSantaMarta</Name>
+    <ElementPath>diversionSantaMarta</ElementPath>
+    <GeometryType>-2147483647</GeometryType>
+    <DatasetSpecificInfo>
+      <FeatureCount>5</FeatureCount>
+      <ExtentXMin>-74.21335</ExtentXMin>
+      <ExtentXMax>-74.17931</ExtentXMax>
+      <ExtentYMin>11.22826</ExtentYMin>
+      <ExtentYMax>11.25673</ExtentYMax>
+    </DatasetSpecificInfo>
+    <PropertyDefn>
+      <Name>Name</Name>
+      <ElementPath>Name</ElementPath>
+      <Type>String</Type>
+      <Width>31</Width>
+    </PropertyDefn>
+    <PropertyDefn>
+      <Name>Description</Name>
+      <ElementPath>Description</ElementPath>
+      <Type>String</Type>
+      <Width>104</Width>
+    </PropertyDefn>
+    <PropertyDefn>
+      <Name>tipo</Name>
+      <ElementPath>tipo</ElementPath>
+      <Type>String</Type>
+      <Width>7</Width>
+    </PropertyDefn>
+  </GMLFeatureClass>
+</GMLFeatureClassList>

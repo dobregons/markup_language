@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+
+<xs:element name="geometry" type="xs:string"/>
+<xs:element name="title" type="xs:string"/>
+<xs:element name="description" type="xs:string"/>
+<xs:element name="year" type="xs:int"/>
+<xs:element name="month" type="xs:int"/>
+<xs:element name="day" type="xs:int"/>
+<xs:element name="postalCode" type="xs:string"/>
+<xs:element name="city" type="xs:string"/>
+<xs:element name="name" type="xs:string"/>
+<xs:element name="surname" type="xs:string"/>
+
+<xs:element name="origin">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element ref="name" minOccurs="1" maxOccurs="1"/>
+      <xs:element ref="surname" minOccurs="1" maxOccurs="1"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+
+<xs:element name="location">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element ref="postalCode" minOccurs="0" maxOccurs="1"/>
+      <xs:element ref="city" minOccurs="1" maxOccurs="1"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+
+
+<xs:element name="date">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element ref="year" minOccurs="1" maxOccurs="1"/>
+      <xs:element ref="month" minOccurs="1" maxOccurs="1"/>
+      <xs:element ref="day" minOccurs="1" maxOccurs="1"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+
+<xs:element name="site">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element ref="geometry" minOccurs="1" maxOccurs="1"/>
+      <xs:element ref="title" minOccurs="1" maxOccurs="1"/>
+      <xs:element ref="description" minOccurs="1" maxOccurs="1"/>
+      <xs:element ref="date" minOccurs="1" maxOccurs="1"/>
+      <xs:element ref="location" minOccurs="1" maxOccurs="1"/>
+      <xs:element ref="origin" minOccurs="1" maxOccurs="1"/>      
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+
+  <xs:element name="metadata">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="site" minOccurs="1" maxOccurs="1"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

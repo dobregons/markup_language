@@ -1,0 +1,98 @@
+<!doctype html>
+<html>
+<head>
+	<title>Proyecto Final LM</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link href="css/styles.css" type="text/css" rel="stylesheet" />
+	<link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/redmond/jquery-ui.css" rel="stylesheet" type="text/css"/>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js"></script>
+  	<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
+	<script type="text/javascript" src="js/global.js"></script>
+
+</head>
+<body onresize="resizeIframe()">
+	<div class="content">
+		<div class="top_block fondo">
+			<div class="content">
+			<H2 class="titleIni">PROYECTO FINAL LENGUAJES DE MARCADO</H2>
+			</div>
+		</div>
+		<div class="main">
+		</div>
+		<div class="left_block main" id="map-canvas">
+			<div class="content" id="iframe">
+				<iframe name="content" src="apiGoogle.html" style="width: 100%; height: 100%"></iframe>
+			</div>
+		</div>
+		<div class="background navMenu fondo2">
+		</div>
+		<div class="right_block navMenu">
+			<div class="content">
+				<div class="boxContainer">					
+					<h3 class="textDescription">DESCRIPCION</h3>
+					<p id="text">El proposito principal de este proyecto es visualizar una de las zonas turisticas más visitadas en la ciudad de Bogotá. La zona que comprende las localidades de Normandia y Barrios Unidos comprende colegios, parques, bibliotecas y sitios de diversión que la hacen atractiva para los turistas. A través de la visualización en el Api de Google usted podrá interactuar y visualizar los alrededores y los sitios principales que rodean este lugar. Para lograr una representación más clara puede visualizar esta zona a través de un archivo SVG con los respectivos nombres de los sitios de interés. Si desea obtener información de los poligonos, lineas y puntos mostrados, puede seleccionar la figura. Para obtener mas información acerca de las figuras mostradas, basta con dirigirse a la opción de Metadatos.
+					<br>
+							
+					</p>
+				</div>
+				<div class="boxContainer list8">
+					<h3 class="textDescription">METADATOS</h3>
+					<ul>
+						<h4>Puntos</h4>
+						<li>
+							<a href="#" id="Punto1.xml" onclick="showMetadata(this.id)">Montaña Rusa Salitre Mágico</a>
+						</li>
+						<li>
+							<a href="#" id="Punto2.xml" onclick="showMetadata(this.id)">Biblioteca Virgilio Barco</a>
+						</li>
+						<li>
+							<a href="#" id="Punto3.xml" onclick="showMetadata(this.id)">Universidad Libre</a>
+						</li>
+						<li>
+							<a href="#" id="Punto4.xml" onclick="showMetadata(this.id)">Palacio de los deportes</a>
+						</li>
+						<h4>Lineas</h4>
+						<li>
+							<a href="#" id="Linea1.xml" onclick="showMetadata(this.id)">Universidad Libre - Salitre Mágico</a>					
+						</li>
+						<li>
+							<a href="#" id="Linea2.xml" onclick="showMetadata(this.id)">Palacio de los deportes - Coliseo el Salitre</a>					
+						</li>
+						<h4>Poligonos</h4>
+						<li>
+							<a href="#" id="Poligono1.xml" onclick="showMetadata(this.id)">Parque Simon Bolivar</a>					
+						</li>
+						<li>
+							<a href="#" id="Poligono2.xml" onclick="showMetadata(this.id)">Salitre Mágico</a>					
+						</li>
+						<li>
+							<a href="#" id="Poligono3.xml" onclick="showMetadata(this.id)">Jardin Botánico</a>					
+						</li>
+						<li>
+							<a href="#" id="Poligono4.xml" onclick="showMetadata(this.id)">Coliseo el Salitre</a>					
+						</li>
+					</ul>
+				</div>
+				<div class="boxContainer list8">
+					<h3 class="textDescription">SVG</h3>
+					<div>
+						<ul>
+							<li>
+								<a  href="svg/localizacion.svg" target="_blank">Normandia & Barrios Unidos</a>
+							</li>
+						</ul>
+					</div>
+							
+				</div>
+			</div>
+		</div>
+		<div id="footer" class="fondo">
+		Copyright © David Obregón Sánchez
+		<br>
+		Universidad Distrital Francisco José de Caldas
+		</div>
+		<div id="dialog" title="Metadato" class="tableMetadata" style="display:none">
+    	</div>
+	</div>
+</body>
+</html>

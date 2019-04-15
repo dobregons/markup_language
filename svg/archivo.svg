@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg>
+
+<img src="url/to/your/image.jpg" alt="" usemap="#Map" />
+<map name="Map" id="Map">
+    <area alt="" title="" href="#" shape="poly" coords="247,243,308,187,496,312,427,383" />
+    <area alt="" title="" href="#" shape="poly" coords="313,182,404,98,411,96,419,97,594,199,579,202,572,205,564,213,550,223,509,280,503,291,497,308" />
+    <area alt="" title="" href="#" shape="poly" coords="598,202,660,248,678,257,687,261,698,265,703,272,701,287,673,323,514,524,499,512,496,504,482,430,473,420,430,386" />
+    <area alt="" title="" href="#" shape="poly" coords="730,304,690,336,681,339,582,465,438,652,544,729,841,728,864,676,896,600,906,578,906,569,903,561,906,545,902,530,750,308,743,304" />
+    <area alt="" title="" href="#" shape="poly" coords="201,84,380,85,284,170" />
+    <area alt="" title="" href="#" shape="poly" coords="183,84,157,84,95,141,200,249,277,182" />
+    <area alt="" title="" href="#" shape="poly" coords="511,529,478,575,466,575,328,465,389,391,407,387,426,393,454,415,474,426,478,449,487,488,492,510,499,520" />
+    <area alt="" title="" href="#" shape="poly" coords="136,344,243,247,397,371,294,493" />
+    <area alt="" title="" href="#" shape="poly" coords="194,526,253,459,130,350,78,397,74,404,96,435,129,475" />
+    <area alt="" title="" href="#" shape="poly" coords="926,530,763,303,758,288,758,269,782,207,805,176,836,135,848,124,877,86,1177,84,1057,268,1030,310" />
+    <area alt="" title="" href="#" shape="poly" coords="718,263,715,272,716,281,727,290,734,290,742,286,746,280,747,269,743,265,736,261,729,258" />
+    <area alt="" title="" href="#" shape="poly" coords="869,719,931,585,1029,716" />
+    <area alt="" title="" href="#" shape="poly" coords="855,85,740,236,723,246,698,250,591,180,426,85" />
+    <area alt="" title="" href="#" shape="poly" coords="60,388,198,255,92,145,0,240,0,291" />
+    <area alt="" title="" href="#" shape="poly" coords="123,83,1,84,0,212" />
+    <area alt="" title="" href="#" shape="poly" coords="234,727,44,426,0,464,0,730" />
+    <area alt="" title="" href="#" shape="poly" coords="294,496,254,461,195,529,124,477,280,727,354,728,468,585,324,473" />
+    <area alt="" title="" href="#" shape="poly" coords="526,729,429,662,379,728" />
+    <area alt="" title="" href="#" shape="poly" coords="1062,286,1025,371,950,539,954,580,1048,714,1315,603,1345,591,1228,509,1171,452" />
+    <area alt="" title="" href="#" shape="poly" coords="1208,86,1364,85,1361,585,1232,499,1188,462,1117,353,1066,280" />
+    <area alt="" title="" href="#" shape="poly" coords="920,544,914,551,913,562,915,569,921,573,928,575,935,572,940,568,943,561,944,555,943,548,938,543,931,540,925,541" />
+    <area alt="" title="" href="#" shape="poly" coords="1068,717,1364,595,1364,715" />
+    [...]
+</map>
+
+<svg height="768" width="1366" style="background: #000921" xmlns="http://www.w3.org/2000/svg">
+  <polygon points="247,243,308,187,496,312,427,383" style="fill:black;stroke:#B25100;stroke-width:3" />
+  <polygon points="392,95,392,225,652,218,651,101" style="fill:#00D9FF;stroke:#B25100;stroke-width:2" />
+
+  <polygon points="671,101,672,438,742,437,773,362,790,317,821,283,847,255,893,212,971,104" style="fill:#00D9FF;stroke:#B25100;stroke-width:2" />
+  <polygon points="219,302,272,302,272,256,371,256,369,448,221,451" style="fill:#00D9FF;stroke:#B25100;stroke-width:1" />
+  <polygon points="36,236,134,238,133,192,32,193" style="fill:#00D9FF;stroke:#B25100;stroke-width:2" />
+  <polygon points="277,224,272,86,373,95,372,227" style="fill:#00D9FF;stroke:#B25100;stroke-width:2" />
+  <polygon points="263,168,212,169,207,74,260,86" style="fill:#00D9FF;stroke:#B25100;stroke-width:2" />
+  <polygon points="23,48,191,74,193,169,30,174" style="fill:#00D9FF;stroke:#B25100;stroke-width:2" />
+  <polygon points="1001,1,1000,70,717,59,724,2" style="fill:#00D9FF;stroke:#B25100;stroke-width:2" />
+  <polygon points="710,1,699,58,1,0" style="fill:#00D9FF;stroke:#B25100;stroke-width:1" />
+
+  <polygon points="202,451,201,308,129,309,128,255,32,261,32,306,87,311,95,453" style="fill:#00D9FF;stroke:#B25100;stroke-width:1" />
+
+  <polygon points="781,433,789,383,812,340,834,313,856,289,880,258,914,226,961,180,1000,126,1000,430" style="fill:#00D9FF;stroke:#B25100;stroke-width:1" />
+
+
+
+
+  <rect height="48" y="240" width="47" x="210" style="fill:#00A03B;stroke:#FF2319;stroke-width:2;fill-opacity:0.7;stroke-opacity:0.9"></rect>
+  <rect height="48" y="178" width="47" x="210" style="fill:#00A03B;stroke:#FF2319;stroke-width:2;fill-opacity:0.7;stroke-opacity:0.9"></rect>
+  <rect height="48" y="179" width="47" x="149" style="fill:#00A03B;stroke:#FF2319;stroke-width:2;fill-opacity:0.7;stroke-opacity:0.9"></rect>
+  <rect height="48" y="240" width="47" x="149" style="fill:#00A03B;stroke:#FF2319;stroke-width:2;fill-opacity:0.7;stroke-opacity:0.9"></rect>
+
+
+  <rect y="113" height="100" width="80" x="500" style="fill:#0E2BFF;stroke:#00D9FF;stroke-width:2;fill-opacity:0.8;stroke-opacity:1.0"></rect>
+
+
+
+  <text x="366" y="74" style="fill: #CFDADB; stroke: none; font-size: 31px;">Carrera Séptima</text>
+  <text y="243" x="434" style="fill: #CFDADB; stroke: none; font-size: 20px;">Carrera 8</text>
+  <text y="476" x="434" style="fill: #CFDADB; stroke: none; font-size: 25px;">Carrera 13</text>
+  <text x="825" y="305" fill="red" transform="rotate(-47, 825,305)">Avenida 39</text>
+  <text x="668" y="315" fill="red" transform="rotate(-90 668,315)">Calle 40 B</text>
+  <text x="390" y="315" fill="red" transform="rotate(-90 390,315)">Calle 41</text>
+  <text x="217" y="370" fill="red" transform="rotate(-90 217,370)">Calle 42</text>
+  <text y="243" x="170" style="fill: #CFDADB; stroke: none; font-size: 20px;">4 parques</text>
+  <text x="454" y="20" style="fill: #CFDADB; stroke: none; font-size: 22px;">Universidad Javeriana</text>
+  <text y="181" x="516" style="fill: #CFDADB; stroke: none; font-size: 35px;">UD</text>
+</svg>

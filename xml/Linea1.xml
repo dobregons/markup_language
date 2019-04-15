@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="metadata.xsd">
+	<site>
+		<geometry>Linea</geometry>
+		<title>Universidad Libre - Salitre Mágico</title>
+		<description>Esta linea describe la ruta entre la Universidad Libre ubicada en Normandia, hacia el parque Salitre Mágico localizado en de Barrios Unidos. Es una de las rutas mas usadas para llegar al parque desde la avenida Rojas.</description>
+		<date>
+			<year>2015</year>
+			<month>06</month>
+			<day>25</day>
+		</date>		
+		<location>
+			<postalCode>111221</postalCode>
+        	<city>Bogota</city>
+		</location>
+		<origin>
+			<name>David</name>
+			<surname>Obregon</surname>
+		</origin>
+	</site>
+</metadata>
